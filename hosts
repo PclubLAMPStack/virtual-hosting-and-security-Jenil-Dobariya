@@ -1,0 +1,6 @@
+#I have added this in hosts file located at /etc/hosts
+
+172.24.0.5 www.website1.com www
+172.24.0.50 www.website1.com www
+172.24.0.6 www.website2.com www
+172.24.0.60 www.website2.com www
