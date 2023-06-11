@@ -1,0 +1,6 @@
+#This file is located in /etc/httpd
+
+user1:$apr1$AjHyHtXK$a5E/75kVHcMxB0HHbPrus0
+user2:$apr1$Fr5cLZMi$a5E/kAS7MkKYJaK.E4dT8UItt0
+user3:$apr1$Ppa4l1NY$HsHBLPA7FIn2sgR9MK8QD1
+user4:$apr1$eUTCvNa0$1RrPcxuAEFNFjxSgb41Xk1
