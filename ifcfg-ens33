@@ -1,0 +1,8 @@
+#This file is located in /etc/sysconfig/network-scripts/
+#I added 4 IPs to it
+
+IPADDR1 172.24.0.5
+IPADDR1 172.24.0.50
+IPADDR1 172.24.0.6
+IPADDR1 172.24.0.60
+PREFIX0=16
